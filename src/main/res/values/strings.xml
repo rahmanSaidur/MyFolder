@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyProject</string>
+
+
+    <string name="Login_msg">Login To Your Account ?</string>
+    <string name="login">Name</string>
+
+    <string name="pass">PassWord</string>
+
+    <string name="login_msg">Login To Your Account ?</string>
+
+    <string name="loginBtn">LogIn</string>
+
+    <string name="login_to_signup_msg">Already Registered ? /Sign Up</string>
+
+    <string name="SugnUp_Name">Name</string>
+
+    <string name="Email_Name">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="Re_Type_pass">Re_Type Pass</string>
+
+    <string name="sign_to_Login">Already Registered ? /Sign In</string>
+
+    <string name="signUpBtn">SignUp</string>
+
+    <string name="signup_msg">Welcome To Signup Page !!!</string>
+
+
+    <string name="grid_name">Welcome To our Service</string>
+    <string name="Search_Btn">Search Nearby Parking</string>
+    <string name="map_key" translatable="false">
+        AIzaSyDnt2IeE_2eLV2IXMtmLuQD67jJCHBDKz0
+    </string>
+
+</resources>
